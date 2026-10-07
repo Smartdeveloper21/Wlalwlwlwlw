@@ -54,10 +54,4 @@ async def main():
     await client.run_until_disconnected()
 
 if __name__ == "__main__":
-    asyncio.run(main())cell so output is visible
-if __name__ == '__main__':
-    loop = asyncio.get_event_loop()
-    try:
-        loop.run_until_complete(run_bot())
-    except Exception as e:
-        print(f"Bot stopped: {e}")
+    asyncio.run(main())
