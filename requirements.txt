@@ -2,3 +2,5 @@ python-telegram-bot
 telebot
 psutil
 flask
+asyncio
+nest_asyncio
