@@ -4,3 +4,4 @@ psutil
 flask
 asyncio
 nest_asyncio
+telethon
