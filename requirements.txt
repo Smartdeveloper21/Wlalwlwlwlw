@@ -1,4 +1,3 @@
 pyrogram
-request
 asyncio
 python-telegram-bot
